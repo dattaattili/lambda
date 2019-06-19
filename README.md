@@ -5,7 +5,7 @@ This repository contains the following modules, which are published to Nexus und
 
 alt text
 
-lambda - AWS Lambda Module- Serverless computing platform with DTCC standards
+lambda - AWS Lambda Module- Serverless computing platform with standards
 Directory Structure
 jenkins.json - The declarative test and deploy definition for the development pipeline
 build.jenkins.json - The declarative build definitaion for the development pipeline
